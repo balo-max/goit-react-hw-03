@@ -1,0 +1,17 @@
+.searchWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 2px;
+
+  width: 300px;
+  margin-bottom: 15px;
+}
+
+.searchLabel {
+  text-align: start;
+}
+
+.searchInput {
+  height: 20px;
+}
